@@ -33,8 +33,8 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone 
-cd 
+git clone https://github.com/Emerson-Portugal/IP-CRP.git
+cd IP-CRP
 bash script.sh
 ```
 
